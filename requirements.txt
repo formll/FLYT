@@ -1,0 +1,15 @@
+torch==2.4.1
+torchvision==0.19.1
+webdataset==0.2.86
+pandas==2.0.3
+braceexpand==0.1.7
+tqdm==4.67.1
+ftfy==6.2.3
+regex==2024.11.6
+pyarrow==17.0.0
+huggingface_hub==0.28.1
+matplotlib==3.7.5
+jupyterlab==4.3.5
+ipywidgets==8.1.5
+scipy==1.10.1
+wandb==0.19.6
